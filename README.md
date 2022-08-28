@@ -1,0 +1,37 @@
+# Estudos
+
+- Java Avançado
+- Go
+- Rust
+- Arquitetura de Softwares
+- Design Patterns
+- JavaScript Avançado
+- NodeJS
+- Keycloak
+- Elasticsearch
+- TLS
+- Algoritmos e Programação Dinâmica
+- Estrutura de Dados Avançadas (e.g. Fenwick Tree)
+- Criptografia
+- CSS/HTML
+- Scrum
+- Jira
+- Jenkins
+- Prometheus
+- Graphana
+- Github CI/CD
+- Gitlab CI/CD
+- Nginx
+- MongoDB
+- Redis
+- DynaTrace
+- Kibana
+- Logstash
+- Metricbeat
+- Filebeat
+- Spring Security
+- Spring MVC Funcional
+- TypeScript
+- Angular
+- React
+- Flutter
